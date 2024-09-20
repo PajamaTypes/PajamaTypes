@@ -4,6 +4,10 @@ Im'ma add something here in a while, for now here is a pic of me.
 
 ![RJTB SABLAY](https://github.com/user-attachments/assets/df810f20-4162-43ee-9f90-4cf5761ad162)
 
+I am an ECE (Electronics Engineering) Graduate, and currently a newbie here in Github as of September 2024.
+Im currently learning for certifications such as the PhilNITS Examination, also the CCNA Exam.
+But here, i might learn some programming language in which i have to fully decide on. 
+
 <!--
 **PajamaTypes/PajamaTypes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
