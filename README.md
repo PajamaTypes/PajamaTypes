@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Im'ma add something here in a while, for now here is a pic of me.
+
+![RJTB SABLAY](https://github.com/user-attachments/assets/df810f20-4162-43ee-9f90-4cf5761ad162)
+
 <!--
 **PajamaTypes/PajamaTypes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
